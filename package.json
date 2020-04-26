@@ -34,7 +34,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server:start": "ts-node ./server/server.ts"
+    "server:start": "ts-node-script ./server/server.ts"
   },
   "eslintConfig": {
     "extends": "react-app"
